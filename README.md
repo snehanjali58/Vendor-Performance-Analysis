@@ -16,7 +16,13 @@ Below is the information of the files of the project:-
 2. get_vendor_summary.ipynb --> Creation of vendor_summary_table from the all tables. Then storing that table in postgresql.
 3. EDA --> Exploratory Data Analysis
 4. Vendor_Performance_dashboard --> Power BI dashboard.
-5. Data Folder --> Contains all the CSV files of the data
-6. Report Writing --> Final report of the analysis. 
+5. Report Writing --> Final report of the analysis. 
    
+Below is the description of all data files:-
 
+1. Begin_Inventory:- It has the records of the inventory at the starting of the year.
+2. End_Inventory:-It has the records of the inventory at the ending of the year.
+3. Purchases:-This table holds every purchase done by the vendors including purchase prize, quantity.
+4. Purchase_prices:-This table holds the actual & purchase price of each brand purchased by vendor.
+5. Sales:- This table has the live data of all the sales done in the year by each & every vendor.
+6. Vendor_Invoice:- It has the invoice details vendor wise including the freight cost (Cost required for the delivery of product) for that invoice. 
