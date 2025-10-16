@@ -1,2 +1,17 @@
 # Vendor-Performancer-Analysis
-We have analyzed vendor performance to identify poorly performing vendors &amp; tried to focus on inventory management. 
+We have analyzed the performance of each vendor to identify the poorly performing vendor & high-performance vendor. 
+Our aim is to increase profit & reduce inventory management cost by analyzing the vendor performances.
+
+Below are the steps that I have performed into the project:-
+
+1. Data Collection:- We have created vendor summary table by fetching required columns from various tables like 	Purchases,	Purchase_prices,Sales,	Vendor_Invoice.
+2. Data Cleaning & transformation:- In this step we have cleaned the data & created some new columns from the existing columns.
+3. EDA( Exploratory Data Analysis):- We have derived some insights by performing the EDA.
+4. Creation of the Power BI dashboard.
+5. Report Writing:- In this section we have done storytelling from the data.
+
+Below is the information of the files of the project:-
+
+1. ingestion_db.ipynb 
+   
+
