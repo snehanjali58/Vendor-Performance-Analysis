@@ -16,7 +16,8 @@ Below is the information of the files of the project:-
 2. get_vendor_summary.ipynb --> Creation of vendor_summary_table from the all tables. Then storing that table in postgresql.
 3. EDA --> Exploratory Data Analysis
 4. Vendor_Performance_dashboard --> Power BI dashboard.
-5. Report Writing --> Final report of the analysis. 
+5. Data Link:- 
+6. Report Writing --> Final report of the analysis. 
    
 Below is the description of all data files:-
 
