@@ -12,11 +12,11 @@ Below are the steps that I have performed into the project:-
 
 Below is the information of the files of the project:-
 
-1. ingestion_db.ipynb --> Reading all CSV files & then storing them into the postgresql database tables.
-2. get_vendor_summary.ipynb --> Creation of vendor_summary_table from the all tables. Then storing that table in postgresql.
+1. ingestion_db.ipynb --> Extracted data from CSV files, transformed data & loaded into PostgreSQL using Pandas.
+2. get_vendor_summary.ipynb --> Creation of vendor_summary_table using Complex Joins from the all tables. Then storing that table in postgresql.
 3. EDA --> Exploratory Data Analysis
 4. Vendor_Performance_dashboard --> Power BI dashboard.
-5. Data Link:- 
+5. Data Link:- One drive link of the data files.
 6. Report Writing --> Final report of the analysis. 
    
 Below is the description of all data files:-
